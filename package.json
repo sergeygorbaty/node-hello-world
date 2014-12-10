@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "A Node.js App using express",
   "dependencies": {
-	"express": "*"
+	"express": "*",
+	"mongoose": "*",
+	"underscore": "*"
    },
   "engine": "node >=0.6.x"
 }
